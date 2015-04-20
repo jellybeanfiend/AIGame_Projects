@@ -1,2 +1,2 @@
 # AIGame_Projects
-Projects completed for my AI for Game Programming class
+This repository includes projects completed for my AI for game programming class. HW1-2 is a combination of functionality from homework 1 and 2 and FinalProject is a simple game implementing various concepts learned throughout the course.
